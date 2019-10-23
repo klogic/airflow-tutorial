@@ -1,0 +1,6 @@
+logs
+airflow.db
+*.cfg
+airflow-webserver.pid
+*.swp
+__pycache__
